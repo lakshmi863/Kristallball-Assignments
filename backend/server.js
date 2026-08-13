@@ -20,7 +20,7 @@ app.use(helmet());
 
 // ENTERPRISE CORS: Replace with your actual Vercel Frontend URL once deployed
 app.use(cors({
-    origin: ["https://kristallball-frontend.vercel.app", "http://localhost:5173"], 
+    origin: ["kristallball-assignments-frontend.vercel.app", "http://localhost:5173"], 
     methods: ["GET", "POST", "PUT", "DELETE"],
     credentials: true
 }));
