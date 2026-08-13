@@ -29,11 +29,7 @@ app.use(express.json());
 
 // 2. ROOT ROUTE (Fixes Vercel 404 on the home page)
 app.get('/', (req, res) => {
-    res.json({ 
-        status: "Online", 
-        message: "Kristallball Military Grid API is active.",
-        systemTime: new Date().toISOString()
-    });
+    res.json({ message: "Kristallball API is Live" });
 });
 
 // 3. Logging Middleware
