@@ -4,6 +4,10 @@ Kristallball is an enterprise-grade tracking platform designed for real-time vis
 
 <h2>🛰️ Tactical Command Modules (Live Access)</h2>
 
+<h2> Vedio Record Link</h2>
+
+https://drive.google.com/file/d/1x-D_5DxB2vzafK-smztuz8aihRQddezz/view?usp=drive_link
+
 <p>The system is organized into secure operational zones accessible via the following command interfaces:</p>
 <table width="100%">
 <thead>
